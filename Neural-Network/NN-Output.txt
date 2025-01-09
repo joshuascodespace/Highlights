@@ -1,0 +1,35 @@
+epoch 1 is done. Accuracy = 0.1154
+epoch 2 is done. Accuracy = 0.1596
+epoch 3 is done. Accuracy = 0.2334
+epoch 4 is done. Accuracy = 0.3357
+epoch 5 is done. Accuracy = 0.4496
+epoch 6 is done. Accuracy = 0.5547
+epoch 7 is done. Accuracy = 0.6396
+epoch 8 is done. Accuracy = 0.6862
+epoch 9 is done. Accuracy = 0.7317
+epoch 10 is done. Accuracy = 0.7693
+epoch 11 is done. Accuracy = 0.8172
+epoch 12 is done. Accuracy = 0.8484
+epoch 13 is done. Accuracy = 0.8738
+epoch 14 is done. Accuracy = 0.8844
+epoch 15 is done. Accuracy = 0.8922
+epoch 16 is done. Accuracy = 0.8967
+epoch 17 is done. Accuracy = 0.8993
+epoch 18 is done. Accuracy = 0.9004
+epoch 19 is done. Accuracy = 0.8973
+epoch 20 is done. Accuracy = 0.9046
+epoch 21 is done. Accuracy = 0.9042
+epoch 22 is done. Accuracy = 0.9015
+epoch 23 is done. Accuracy = 0.91
+epoch 24 is done. Accuracy = 0.9024
+epoch 25 is done. Accuracy = 0.9049
+epoch 26 is done. Accuracy = 0.8994
+epoch 27 is done. Accuracy = 0.9093
+epoch 28 is done. Accuracy = 0.9112
+epoch 29 is done. Accuracy = 0.9051
+epoch 30 is done. Accuracy = 0.9068
+Oh No! Your gradient component's finite differencing exceeding the threshhold!! -0.0011844358664073636 > 0.001
+Oh No! Your gradient component's finite differencing exceeding the threshhold!! 0.0010940426400586501 > 0.001
+Oh No! Your gradient component's finite differencing exceeding the threshhold!! 0.0013123440784340717 > 0.001
+Oh No! Your gradient component's finite differencing exceeding the threshhold!! -0.0010083856629865308 > 0.001
+Your weights failed the finite differencing 4 times.
